@@ -3,5 +3,5 @@
   "description": "CAST Pool is managed by a trio of young but experienced IT engineers, offering you the best staking experience as delegators and institutes (10% to charities)",
   "ticker": "CAST",
   "homepage": "https://castpool.github.io/CASTPool",
-  "extended": "https://raw.githubusercontent.com/castpool/CASTPool/main/cast-extended.json"
+  "extended": "https://castpool.github.io/CASTPool/assets/cast-extended.json"
 }
