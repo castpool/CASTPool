@@ -1,1 +1,39 @@
-{}
+{
+  "info": {
+    "url_png_icon_64x64": "https://angelstakepool.net/pool/angel-logo-64.png",
+    "url_png_logo": "https://angelstakepool.net/pool/angel-logo.png",
+    "location": "TN",
+    "social": {
+      "twitter_handle": "",
+      "telegram_handle": "CASTPool",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": "https://github.com/MokhFn/"
+    },
+    "company": {
+      "name": "",
+      "addr": "",
+      "city": "",
+      "country": "",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "ANGEL pool, running since the ITN, offers low fees, decent long term pledge that we commit to ever increase for at least 5 years, seriousness and commitment to our delegators and Cardano as a project.",
+      "server": "Our pool relies on 5 geographically distributed servers [including monitoring/alerts] with competitive hardware specs.",
+      "company": ""
+    },
+    "rss": ""
+  },
+  "telegram-admin-handle": {
+    "0": "CASTPool"
+  },
+  "my-pool-ids": {
+    "0": "d9ba1c74d289a64dbf5471d800f0685dada44206eb68455077beb98c"
+  },
+  "when-satured-then-recommend": {
+    "0": "d9ba1c74d289a64dbf5471d800f0685dada44206eb68455077beb98c"
+  }
+}
