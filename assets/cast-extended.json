@@ -1,8 +1,8 @@
 {
   "info": {
-    "url_png_icon_64x64": "https://angelstakepool.net/pool/angel-logo-64.png",
-    "url_png_logo": "https://angelstakepool.net/pool/angel-logo.png",
-    "location": "TN",
+    "url_png_icon_64x64": "https://castpool.github.io/CASTPool/images/CASTPool-logo-64.png",
+    "url_png_logo": "https://castpool.github.io/CASTPool/images/CASTPool-logo.png",
+    "location": "FR",
     "social": {
       "twitter_handle": "",
       "telegram_handle": "CASTPool",
@@ -10,7 +10,7 @@
       "youtube_handle": "",
       "twitch_handle": "",
       "discord_handle": "",
-      "github_handle": "https://github.com/MokhFn/"
+      "github_handle": "https://github.com/castpool/"
     },
     "company": {
       "name": "",
@@ -21,8 +21,8 @@
       "vat_id": ""
     },
     "about": {
-      "me": "ANGEL pool, running since the ITN, offers low fees, decent long term pledge that we commit to ever increase for at least 5 years, seriousness and commitment to our delegators and Cardano as a project.",
-      "server": "Our pool relies on 5 geographically distributed servers [including monitoring/alerts] with competitive hardware specs.",
+      "me": "CAST pool offers an ever increasing pledge for at least the next decade, with that, comes commitment to our delegators and Cardano as a project.",
+      "server": "Our pool will ultimately rely on 3 geographically and continentally distributed servers with competitive hardware specs and real-time monitoring.",
       "company": ""
     },
     "rss": ""
