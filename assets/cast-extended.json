@@ -4,7 +4,7 @@
     "url_png_logo": "https://castpool.github.io/CASTPool/images/CASTPool-logo.png",
     "location": "FR",
     "social": {
-      "twitter_handle": "",
+      "twitter_handle": "CAST_Pool",
       "telegram_handle": "CASTPool",
       "facebook_handle": "",
       "youtube_handle": "",
@@ -34,6 +34,6 @@
     "0": "d9ba1c74d289a64dbf5471d800f0685dada44206eb68455077beb98c"
   },
   "when-satured-then-recommend": {
-    "0": "d9ba1c74d289a64dbf5471d800f0685dada44206eb68455077beb98c c9970e0508372248c57a80983073126a"
+    "0": "d9ba1c74d289a64dbf5471d800f0685dada44206eb68455077beb98c"
   }
 }
